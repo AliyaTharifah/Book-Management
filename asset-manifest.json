@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Book-Management.git/static/css/main.fee78ec7.css",
+    "main.js": "/Book-Management.git/static/js/main.f49c56e2.js",
+    "index.html": "/Book-Management.git/index.html",
+    "main.fee78ec7.css.map": "/Book-Management.git/static/css/main.fee78ec7.css.map",
+    "main.f49c56e2.js.map": "/Book-Management.git/static/js/main.f49c56e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee78ec7.css",
+    "static/js/main.f49c56e2.js"
+  ]
+}
